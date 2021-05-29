@@ -1,6 +1,6 @@
-## Hello World! 👋
+## Hello World! <img src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/hello.gif" width="40px">
 
-`git config --global user.name "jugaleezy"`
+### `git config --global user.name "jugaleezy"`
 
 💻 I'm a **blockchain developer** working on the **Ethereum** platform and currently open to work.
 
@@ -16,7 +16,32 @@
 
 🍻 I’m looking to collaborate on Blockchain or AI/ML projects.
 
-📫 Reach me out on: [LinkedIn](www.linkedin.com/in/jugaleezy) or ![twitter](www.twitter.com/jugaleezy)
+<br/>
+
+## Languages and Libraries
+<p>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/node-js.svg" height="50px" alt="nodejs"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/solidity.svg" height="60px" alt="solidity"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/python.svg" height="50px" alt="python"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/java.svg" height="50px" alt="java"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/ethereum.svg" height="50px" alt="ethereum"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/express-js.svg" height="50px" alt="express-js"/>
+</p>
+<br/><br/><br/>
+
+## Tools
+<p> 
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/npm.svg" height="35px" alt="npm"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/postman.svg" height="50px" alt="postman"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/vs-code.svg" height="50px" alt="vs-code"/>
+<img align="left" src="https://raw.githubusercontent.com/jugaleezy/jugaleezy/main/graphics/mongodb.svg" height="60px" alt="mongodb"/>
+</p>
+<br/><br/><br/>
+
+## 📫 Connect with me
+[<img height=25 src="https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&style=social">](https://www.linkedin.com/in/jugaleezy)
+[<img height=25 src="https://img.shields.io/badge/Twitter--blue?logo=Twitter&style=social">](https://twitter.com/jugaleezy)
+[<img height=25 src="https://img.shields.io/badge/Medium--blue?logo=Medium&style=social">](https://medium.com/@jugaleezy)
 
 <!---
 jugaleezy/jugaleezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

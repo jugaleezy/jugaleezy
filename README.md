@@ -2,7 +2,7 @@
 
 ### `git config --global user.name "jugaleezy"`
 
-💻 I'm a **blockchain developer** working on the **Ethereum** platform and currently open to work.
+💻 A **blockchain developer** working on the **Ethereum, BNB, POLYGON** platform.
 
 🌱 Currently learning about **Solidity and Blockchain technology** to get more hands-on.
 

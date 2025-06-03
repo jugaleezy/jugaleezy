@@ -4,7 +4,7 @@ I'm a software Engineer 💻 with 4+ years of experience as a blockchain develop
 Skilled in Solidity, Node.js, Python, Go, Unreal Engine C++, RESTful APIs, Microservices, AWS, and Linux. <br/>
 Proficient in EVM chains, DEX, DeFi, AMM, Market Making, Algorithmic Trading, NFT Marketplaces, Staking, Automation, Gameplay programming and more.
 
-👨‍💻 I'm currently learning **Go lang** and its core concepts like **goroutines**, **concurrency**, and its usage in backend development and building scalable systems
+👨‍💻 I'm currently learning **Go lang** and its core concepts such as **goroutines**, **concurrency**, and its usage in backend development and building scalable systems
 
 <br/>
 
